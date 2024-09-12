@@ -36,4 +36,5 @@ This project implements a **Tic-Tac-Toe** game in C++ for any board dimension (N
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Abdrlrahman-Mansour/tic-tac-toe.git
+   git clone https://github.com/Abdrlrahman-Mansour/Tic-Tac-Toe.git
+
